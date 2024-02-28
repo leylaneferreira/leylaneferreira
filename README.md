@@ -26,6 +26,14 @@
 - **2010 - 2020 → Universidade Federal de Pernambuco** <br> Master in Computer Science <br> 
 - **2010 - Actual → Universidade Federal de Pernambuco** <br>
 
+# 💻 Experience
+- **2018 - 2021 → GPRT: Researcher **
+  * Development and research solutions for cloud data center management focusing on availability.
+  * Worked with optimization tools to maximize the cloud data center availability, taking into account the infrastructure cost.
+  * Worked with simulation and distributed cloud optimization applied to cellular network management.
+- **2022 - 2023 →  Unifavip Wyden**
+  * Lessons activities in Big Data, Databases, Data Structure, Python, and IoT subjects.
+
 ## Contact Me
 🤗 Feel free to conctact me:
 
