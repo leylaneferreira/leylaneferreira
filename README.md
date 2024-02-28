@@ -21,23 +21,19 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" target="_blank">
 
-  
-  <!--   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" target="_blank"> -->
-</div>
+##  📖 Academic education
+- **2013 - 2016 → Universidade de Pernambuco** <br> Bachelor in Information Systems <br>
+- **2010 - 2020 → Universidade Federal de Pernambuco** <br> Master in Computer Science <br> 
+- **2010 - Actual → Universidade Federal de Pernambuco** <br>
+
+## Contact Me
+🤗 Feel free to conctact me:
+
+- leylanegraziele@gmail.com
+- [LinkedIn Profile](Linkedin: linkedin.com/in/leylane-ferreira-375422135/)
+- [Google Scholar](https://scholar.google.com/citations?user=RW0dfJYAAAAJ&hl=pt-BR)
 
 
 
-<!--
-**leylaneferreira/leylaneferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
