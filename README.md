@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## About me
-- My name is Leylane Ferreira; I am a PhD candidate researching the use of Federated Learning over resource constraints in the IIoT context at Universidade Federal de Pernambuco (UFPE). 
+- My name is Leylane Ferreira. I am a PhD candidate researching the use of Federated Learning over resource constraints in the IIoT context at Universidade Federal de Pernambuco (UFPE). 
 
 - I have five years of data science experience, including optimization, machine learning, and deep learning projects.  Additionally, I worked on research projects that included using deep learning applied to image segmentation, resource allocation in composable systems, and resource allocation in cloud and 5G. I also had a brief experience teaching Big Data, Databases, Data Structure, Python, and IoT subjects.
 
