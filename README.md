@@ -27,7 +27,7 @@
 - **2010 - Actual → Universidade Federal de Pernambuco** <br>
 
 # 💻 Experience
-- **2018 - 2021 → GPRT: Researcher **
+- **2018 - 2021 → GPRT: Researcher**
   * Development and research solutions for cloud data center management focusing on availability.
   * Worked with optimization tools to maximize the cloud data center availability, taking into account the infrastructure cost.
   * Worked with simulation and distributed cloud optimization applied to cellular network management.
