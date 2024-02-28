@@ -30,7 +30,7 @@
 🤗 Feel free to conctact me:
 
 - leylanegraziele@gmail.com
-- [LinkedIn Profile](Linkedin: linkedin.com/in/leylane-ferreira-375422135/)
+- [LinkedIn Profile](linkedin.com/in/leylane-ferreira-375422135/)
 - [Google Scholar](https://scholar.google.com/citations?user=RW0dfJYAAAAJ&hl=pt-BR)
 
 
