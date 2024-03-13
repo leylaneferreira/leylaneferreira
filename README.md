@@ -4,7 +4,7 @@
 
 - I have five years of data science experience, including optimization, machine learning, and deep learning projects.  Additionally, I worked on research projects that included using deep learning applied to image segmentation, resource allocation in composable systems, and resource allocation in cloud and 5G. I also had a brief experience teaching Big Data, Databases, Data Structure, Python, and IoT subjects.
 - I’m currently working on Resource Allocation Federated Learning Project on PhD.  
-- I’m currently learning Kafka, LLMs and NLP.
+- I’m currently learning Kafka, LLMs, NLP and Google Cloud Platform.
 
 ## 👩‍💻 Skills
 <!-- You can get badges here: https://github.com/Ileriayo/markdown-badges -->
