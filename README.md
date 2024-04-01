@@ -31,7 +31,7 @@
   * Development and research solutions for cloud data center management focusing on availability.
   * Worked with optimization tools to maximize the cloud data center availability, taking into account the infrastructure cost.
   * Worked with simulation and distributed cloud optimization applied to cellular network management.
-- **2022 - 2023 →  Unifavip Wyden**
+- **2022 - 2023 →  Unifavip Wyden: Teacher**
   * Lessons activities in Big Data, Databases, Data Structure, Python, and IoT subjects.
 
 ## Contact Me
