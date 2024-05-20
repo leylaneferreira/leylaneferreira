@@ -23,8 +23,8 @@
 
 ##  📖 Academic education
 - **2013 - 2016 → Universidade de Pernambuco** <br> Bachelor in Information Systems <br>
-- **2010 - 2020 → Universidade Federal de Pernambuco** <br> Master in Computer Science <br> 
-- **2010 - Actual → Universidade Federal de Pernambuco** <br>
+- **2018 - 2020 → Universidade Federal de Pernambuco** <br> Master in Computer Science <br> 
+- **2020 - Actual → Universidade Federal de Pernambuco** <br>
 
 # 💻 Experience
 - **2018 - 2021 → GPRT: Developer**
