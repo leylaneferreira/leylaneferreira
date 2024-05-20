@@ -28,11 +28,15 @@
 
 # 💻 Experience
 - **2018 - 2021 → GPRT: Developer**
-  * Development and research solutions for cloud data center management focusing on availability.
-  * Worked with optimization tools to maximize the cloud data center availability, taking into account the infrastructure cost.
-  * Worked with simulation and distributed cloud optimization applied to cellular network management.
+  * Developed skills in Python for the implementation of optimization algorithms.
+  * Conducted data analyses and visualizations to generate insights for clients.
+  * Applied mathematical methods and statistical modeling for the validation of algorithms and solutions.
+  * Developed skills in reading and writing reports and documentation in English.
 - **2022 - 2023 →  Unifavip Wyden: Teacher**
-  * Lessons activities in Big Data, Databases, Data Structure, Python, and IoT subjects.
+  * Taught courses on Python development with a focus on tools for Big Data and Machine Learning such as Spark, Hadoop, Scikit-Learn, Pandas, TensorFlow, and Keras.
+  * Supervised teams in developing Machine Learning projects using algorithms for linear regression, clustering, and neural networks with open datasets.
+  * Developed communication and presentation skills.
+
 
 ## Contact Me
 🤗 Feel free to conctact me:
